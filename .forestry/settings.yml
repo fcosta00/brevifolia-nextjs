@@ -6,13 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: cartella
+  label: Pages
   create: all
   match: "**/*"
-- type: heading
-  label: contatti
-- type: heading
-  label: iCani
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
