@@ -1,4 +1,11 @@
 ---
 label: i cani
 hide_body: false
-fields: []
+fields:
+- name: dsads
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: dsads
